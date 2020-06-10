@@ -3,3 +3,4 @@
 User-agent: *
 Disallow: /test/ # This is a test project
 Disallow: /hwtest/ # This is a test project
+Disallow: /dltest/ # This is a test project
