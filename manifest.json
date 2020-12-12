@@ -1,5 +1,6 @@
 {
-    "name": "HTTPS Watch",
+    "name": "",
+    "short_name": "",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -14,6 +15,5 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "display": "standalone",
-    "short_name": "HTTPS Watch"
+    "display": "standalone"
 }
